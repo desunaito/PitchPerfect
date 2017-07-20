@@ -15,6 +15,7 @@
 		F2232E061F193B5200C303ED /* PitchPerfectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2232E051F193B5200C303ED /* PitchPerfectTests.swift */; };
 		F2232E111F193B5200C303ED /* PitchPerfectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2232E101F193B5200C303ED /* PitchPerfectUITests.swift */; };
 		F22BA8251F198C410099F6D1 /* PlaySoundsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F22BA8241F198C410099F6D1 /* PlaySoundsViewController.swift */; };
+		F22BA8271F1D6A620099F6D1 /* PlaySoundsViewController+Audio.swift in Sources */ = {isa = PBXBuildFile; fileRef = F22BA8261F1D6A620099F6D1 /* PlaySoundsViewController+Audio.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		F2232E101F193B5200C303ED /* PitchPerfectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PitchPerfectUITests.swift; sourceTree = "<group>"; };
 		F2232E121F193B5200C303ED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F22BA8241F198C410099F6D1 /* PlaySoundsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaySoundsViewController.swift; sourceTree = "<group>"; };
+		F22BA8261F1D6A620099F6D1 /* PlaySoundsViewController+Audio.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "PlaySoundsViewController+Audio.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				F2232DF01F193B5200C303ED /* AppDelegate.swift */,
 				F2232DF21F193B5200C303ED /* RecordSoundsViewController.swift */,
 				F22BA8241F198C410099F6D1 /* PlaySoundsViewController.swift */,
+				F22BA8261F1D6A620099F6D1 /* PlaySoundsViewController+Audio.swift */,
 				F2232DF41F193B5200C303ED /* Main.storyboard */,
 				F2232DF71F193B5200C303ED /* Assets.xcassets */,
 				F2232DF91F193B5200C303ED /* LaunchScreen.storyboard */,
@@ -268,6 +271,7 @@
 				F2232DF31F193B5200C303ED /* RecordSoundsViewController.swift in Sources */,
 				F22BA8251F198C410099F6D1 /* PlaySoundsViewController.swift in Sources */,
 				F2232DF11F193B5200C303ED /* AppDelegate.swift in Sources */,
+				F22BA8271F1D6A620099F6D1 /* PlaySoundsViewController+Audio.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
